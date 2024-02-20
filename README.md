@@ -7,5 +7,6 @@ Silakan gunakan format berikut:<br>
 
 Berikut adalah daftar Volunter yang diterima:
 * Oon Arfiandwi, [oo.or.id](https://oo.or.id).
+* Muhammad Arqam Syahputra, [Linkedin](https://www.linkedin.com/in/muhammad-arqam-syahputra/)
 
 **REPOSITORI INI LATIHAN KERJASAMA TIM**
